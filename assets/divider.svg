@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="100%">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#E10600" stop-opacity="0"/><stop offset=".5" stop-color="#E10600"/><stop offset="1" stop-color="#E10600" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.b{animation:p 2.4s ease-in-out infinite;transform-origin:600px 35px}@keyframes p{0%,100%{opacity:.65;transform:scale(.9)}50%{opacity:1;transform:scale(1.1)}}
+.s{stroke-dasharray:40 20;animation:d 2s linear infinite}@keyframes d{to{stroke-dashoffset:-60}}</style></defs>
+<line x1="0" y1="35" x2="520" y2="35" stroke="url(#l)" stroke-width="2" class="s"/>
+<line x1="680" y1="35" x2="1200" y2="35" stroke="url(#l)" stroke-width="2" class="s"/>
+<g class="b" filter="url(#g)"><g transform="translate(600,35) scale(.28)"><path d="M -100,-10 C -80,-40 -50,-45 -30,-30 C -25,-45 -15,-50 -10,-55 L -5,-40 L 5,-40 L 10,-55 C 15,-50 25,-45 30,-30 C 50,-45 80,-40 100,-10 C 85,-15 70,-10 60,5 C 50,-5 40,0 35,15 C 25,5 15,10 0,40 C -15,10 -25,5 -35,15 C -40,0 -50,-5 -60,5 C -70,-10 -85,-15 -100,-10 Z" fill="#E10600"/></g></g>
+</svg>

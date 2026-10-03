@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 190" width="100%">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140000"/><stop offset="1" stop-color="#050505"/></linearGradient>
+<linearGradient id="tp" x1="0" x2="1"><stop offset="0" stop-color="#E10600"/><stop offset="1" stop-color="#FF6A4D"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<style>
+.n{font:900 64px Impact,'Arial Black',sans-serif;fill:none;stroke:#E10600;stroke-opacity:.35;stroke-width:1.5}
+.h{font:800 27px 'Segoe UI',Arial,sans-serif;fill:#fff;letter-spacing:1px}
+.d{font:16px 'Segoe UI',Arial,sans-serif;fill:#b8b8b8}
+.tg{font:700 11px 'Courier New',monospace;fill:#ff6a5d;letter-spacing:1px}
+.bd{animation:bd 3.4s ease-in-out infinite}
+@keyframes bd{0%,100%{stroke-opacity:.35}50%{stroke-opacity:.95}}
+.sw{animation:sw 4s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(-120px);opacity:0}20%{opacity:1}80%{opacity:1}100%{transform:translateX(600px);opacity:0}}
+</style></defs>
+<rect x="2" y="2" width="576" height="186" rx="16" fill="url(#bg)"/>
+<rect x="2" y="2" width="576" height="186" rx="16" fill="none" stroke="#E10600" stroke-width="1.6" class="bd"/>
+<rect x="2" y="2" width="576" height="5" rx="2.5" fill="url(#tp)"/>
+<rect x="0" y="2" width="110" height="5" fill="url(#sh)" class="sw"/>
+<text x="548" y="84" text-anchor="end" class="n">03</text>
+<text x="34" y="52" class="h">Orbis.AI</text>
+<text x="34" y="86" class="d">AI Confidence vs. Accuracy Tracker.</text>
+<text x="34" y="110" class="d">How sure a model is vs. how right it is.</text>
+<rect x="34" y="138" width="90" height="26" rx="13" fill="#E10600" fill-opacity=".1" stroke="#E10600" stroke-opacity=".7"/><text x="79" y="156" text-anchor="middle" class="tg">AI EVAL</text><rect x="134.39999999999998" y="138" width="164" height="26" rx="13" fill="#E10600" fill-opacity=".1" stroke="#E10600" stroke-opacity=".7"/><text x="216" y="156" text-anchor="middle" class="tg">LIQUID GLASS UI</text>
+</svg>
