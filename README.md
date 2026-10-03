@@ -43,20 +43,68 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-1.svg" alt="HalluciGuard" /></a></td>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-2.svg" alt="StudySync" /></a></td>
+<td width="50%" valign="top">
+
+### 🦇 HalluciGuard
+AI-powered **LLM security firewall**.<br/>Guards against hallucinated and unsafe outputs.<br/><br/>
+<img src="https://img.shields.io/badge/AI%20SECURITY-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/LLM-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/FIREWALL-E10600?style=flat-square&labelColor=000" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🦇 StudySync
+**SaaS study-partner platform** for students.<br/>Next.js, TypeScript, Tailwind and Supabase.<br/><br/>
+<img src="https://img.shields.io/badge/NEXT.JS-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/TYPESCRIPT-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/SUPABASE-E10600?style=flat-square&labelColor=000" />
+
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-3.svg" alt="Orbis.AI" /></a></td>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-4.svg" alt="Ultimate Toolbox" /></a></td>
+<td width="50%" valign="top">
+
+### 🦇 Orbis.AI
+**AI Confidence vs. Accuracy Tracker**.<br/>How sure a model is vs. how right it is.<br/><br/>
+<img src="https://img.shields.io/badge/AI%20EVAL-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/LIQUID%20GLASS%20UI-E10600?style=flat-square&labelColor=000" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🦇 Ultimate Toolbox
+**Docker-hosted, privacy-first** tools app.<br/>A browser app built around 1000+ tools.<br/><br/>
+<img src="https://img.shields.io/badge/DOCKER-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/PRIVACY--FIRST-E10600?style=flat-square&labelColor=000" />
+
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-5.svg" alt="Personal AI Agent" /></a></td>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-6.svg" alt="AI Web Scraper" /></a></td>
+<td width="50%" valign="top">
+
+### 🦇 Personal AI Agent
+**WhatsApp-triggered** automation agent.<br/>Built on n8n to handle tasks for me.<br/><br/>
+<img src="https://img.shields.io/badge/N8N-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/WHATSAPP-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/AUTOMATION-E10600?style=flat-square&labelColor=000" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🦇 AI Web Scraper
+**Hybrid crawler + LLM extraction**.<br/>Pulls structured data from messy pages.<br/><br/>
+<img src="https://img.shields.io/badge/PYTHON-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/LLM-E10600?style=flat-square&labelColor=000" />
+
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-7.svg" alt="Resume Generator" /></a></td>
-<td width="50%"><a href="https://github.com/swastikparmar987?tab=repositories"><img src="./assets/card-8.svg" alt="Video Attendance" /></a></td>
+<td width="50%" valign="top">
+
+### 🦇 Resume Generator
+**n8n workflow:** AI to LaTeX to PDF.<br/>A fully automated resume pipeline.<br/><br/>
+<img src="https://img.shields.io/badge/N8N-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/LATEX-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/AI-E10600?style=flat-square&labelColor=000" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🦇 Video Attendance
+**CCTV/RTSP face-recognition** attendance.<br/>Built for a university competition.<br/><br/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-E10600?style=flat-square&labelColor=000" /> <img src="https://img.shields.io/badge/FACE%20RECOGNITION-E10600?style=flat-square&labelColor=000" />
+
+</td>
 </tr>
 </table>
 
@@ -88,6 +136,14 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=swastikparmar987&hide_border=false&border=3a0000&background=0A0A0A&ring=E10600&fire=FF3B30&currStreakLabel=E10600&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=3a0000&border_radius=12&cache_seconds=86400" />
+
+</div>
+
+<img src="./assets/h-patrol.svg" alt="Night Patrol" width="100%" />
+
+<div align="center">
+
+<img src="./assets/batman-contrib.svg" alt="Batman themed contribution graph" width="100%" />
 
 </div>
 
