@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="100%">
+<defs>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#E10600"/><stop offset=".6" stop-color="#E10600" stop-opacity=".25"/><stop offset="1" stop-color="#E10600" stop-opacity="0"/></linearGradient>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+.t{font:900 34px Impact,'Arial Black','Segoe UI',sans-serif;letter-spacing:7px;fill:#fff}
+.m{font:14px 'Courier New',monospace;fill:#ff4d3d;letter-spacing:3px}
+.b{animation:p 2.6s ease-in-out infinite;transform-origin:44px 38px}
+@keyframes p{0%,100%{opacity:.7;transform:scale(.92)}50%{opacity:1;transform:scale(1.08)}}
+.s{animation:mv 3.5s ease-in-out infinite}
+@keyframes mv{0%{transform:translateX(0);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(1000px);opacity:0}}
+</style></defs>
+<rect x="0" y="0" width="1200" height="80" fill="#0a0a0a" opacity=".0"/>
+<g class="b" filter="url(#g)"><g transform="translate(44,38) scale(.3)"><path d="M -100,-10 C -80,-40 -50,-45 -30,-30 C -25,-45 -15,-50 -10,-55 L -5,-40 L 5,-40 L 10,-55 C 15,-50 25,-45 30,-30 C 50,-45 80,-40 100,-10 C 85,-15 70,-10 60,5 C 50,-5 40,0 35,15 C 25,5 15,10 0,40 C -15,10 -25,5 -35,15 C -40,0 -50,-5 -60,5 C -70,-10 -85,-15 -100,-10 Z" fill="#E10600"/></g></g>
+<text x="92" y="52" class="t">NIGHT PATROL</text>
+<text x="1180" y="50" text-anchor="end" class="m">// contribution log</text>
+<rect x="0" y="68" width="1200" height="2" fill="url(#ln)"/>
+<rect x="0" y="67" width="180" height="4" fill="url(#sw)" class="s"/>
+</svg>
