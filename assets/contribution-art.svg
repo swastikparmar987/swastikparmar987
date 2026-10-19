@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">A quiet signal</title>
+  <desc id="desc">A violet signal line fading into a dark field.</desc>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#8b83d8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#a9a3e9" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#8b83d8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 114 C180 114 195 114 310 114 S460 114 520 62 S580 10 640 62 S700 114 820 114 S1010 114 1200 114" fill="none" stroke="url(#fade)" stroke-width="1.5"/>
+  <path d="M0 114H1200" stroke="#18181b" stroke-width="1"/>
+  <circle cx="640" cy="62" r="4" fill="#c2bdff"/>
+  <circle cx="640" cy="62" r="18" fill="none" stroke="#a9a3e9" stroke-opacity=".22"/>
+  <text x="600" y="143" text-anchor="middle" fill="#71717a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="3">KEEP EXPLORING</text>
+</svg>

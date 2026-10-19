@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Swastik Parmar — practical AI engineering</title>
+  <desc id="desc">A dark, minimal computational network with a restrained violet signal moving through it.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09090b"/>
+      <stop offset="0.58" stop-color="#111118"/>
+      <stop offset="1" stop-color="#211d32"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a9a3e9" stop-opacity=".12"/>
+      <stop offset=".5" stop-color="#a9a3e9" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".08"/>
+    </linearGradient>
+    <radialGradient id="orb" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#b9b4ff" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#b9b4ff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .eyebrow { font: 500 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 4px; fill: #b8b4d8; }
+      .name { font: 600 56px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -2px; fill: #f4f4f5; }
+      .role { font: 400 19px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #a1a1aa; }
+      .caption { font: 400 13px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 1px; fill: #71717a; }
+      .node { fill: #f4f4f5; }
+      .pulse { fill: #c2bdff; animation: travel 5s ease-in-out infinite; }
+      .halo { animation: breathe 4s ease-in-out infinite; transform-origin: 932px 217px; }
+      @keyframes travel { 0%, 100% { opacity: .15; transform: translateX(0); } 45%, 55% { opacity: 1; transform: translateX(34px); } }
+      @keyframes breathe { 0%, 100% { opacity: .45; transform: scale(.92); } 50% { opacity: .85; transform: scale(1.08); } }
+      @media (prefers-reduced-motion: reduce) { .pulse, .halo { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="20" fill="url(#bg)"/>
+  <path d="M40 366H1160" stroke="#fff" stroke-opacity=".1"/>
+  <path d="M40 62H1160" stroke="#fff" stroke-opacity=".08"/>
+  <text x="78" y="108" class="eyebrow">AI / COMPUTER VISION / RELIABILITY</text>
+  <text x="78" y="186" class="name">Swastik Parmar</text>
+  <text x="80" y="225" class="role">Building useful AI, one experiment at a time.</text>
+  <text x="80" y="340" class="caption">BASELINE  →  FAILURE ANALYSIS  →  ITERATION</text>
+  <g fill="none" stroke="url(#edge)" stroke-width="1.2">
+    <path d="M748 118L870 168L1055 112L1120 218L1012 305L870 268L748 332L870 168L1012 305L1055 112"/>
+    <path d="M748 118L748 332M870 168L870 268M1055 112L1012 305"/>
+  </g>
+  <circle cx="932" cy="217" r="126" fill="url(#orb)" class="halo"/>
+  <g class="node">
+    <circle cx="748" cy="118" r="4"/><circle cx="870" cy="168" r="5"/>
+    <circle cx="1055" cy="112" r="4"/><circle cx="1120" cy="218" r="5"/>
+    <circle cx="1012" cy="305" r="4"/><circle cx="870" cy="268" r="4"/>
+    <circle cx="748" cy="332" r="5"/>
+  </g>
+  <circle cx="870" cy="168" r="3" class="pulse"/>
+  <circle cx="905" cy="181" r="2" class="pulse" opacity=".5"/>
+  <circle cx="940" cy="195" r="2" class="pulse" opacity=".35"/>
+  <text x="1092" y="376" text-anchor="end" class="caption">01 / SYSTEMS IN PROGRESS</text>
+</svg>
