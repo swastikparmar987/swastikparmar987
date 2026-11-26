@@ -54,7 +54,7 @@
 <img src="./assets/sec-05.svg" alt="05 Battle Stats" width="100%">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastikparmar987&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=3F72E5&title_color=FFC93C&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFC93C&border_color=11162B&border_radius=22" alt="GitHub stats" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=swastikparmar987&show_icons=true&rank_icon=github&bg_color=3F72E5&title_color=FFC93C&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFC93C&border_color=11162B&border_radius=22&cache_seconds=21600" alt="GitHub stats" height="180">username=swastikparmar987&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=3F72E5&title_color=FFC93C&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFC93C&border_color=11162B&border_radius=22" alt="GitHub stats" height="180">
   <img src="https://streak-stats.demolab.com?user=swastikparmar987&background=3F72E5&border=11162B&ring=FFC93C&fire=FFC93C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC93C&sideLabels=FFFFFF&dates=BFD5FF&stroke=BFD5FF&border_radius=22" alt="GitHub streak" height="180">
 </p>
 
